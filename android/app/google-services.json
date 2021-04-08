@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78440308533",
+    "project_id": "bloodbank-acf7a",
+    "storage_bucket": "bloodbank-acf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78440308533:android:4fcc960df2fdeca006367c",
+        "android_client_info": {
+          "package_name": "com.cirt.blood_donor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78440308533-ihln7k544s0o3d6r5kr70ftsl0i7u7l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cirt.blood_donor",
+            "certificate_hash": "b56defcadc0db55e39a7a86f35e538b777aca846"
+          }
+        },
+        {
+          "client_id": "78440308533-lk4sqg1a2vqcvpq1gr55rjfamh8dkbha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtBkAgFUxFrGGlbvp71ubJRflNAu3wHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78440308533-lk4sqg1a2vqcvpq1gr55rjfamh8dkbha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
